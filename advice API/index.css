@@ -1,0 +1,48 @@
+*{
+    inset: 0;
+}
+body{
+    background-color: green;
+}
+
+.div{
+    /* height: 300px; */
+    width: 70%;
+    margin: auto ;
+    background-color: azure;
+    
+}
+h1{
+    text-align: center;
+    font-weight: 500;
+}
+blockquote{
+    font-size: 20px;
+    color: indigo;
+    padding: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    /* height: 100%;   */
+    
+}
+.div{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    color: black;
+    outline: none;
+    border: none;
+    margin: auto;
+    /* text-align: center; */
+    /* margin-left: 80px; */
+    
+}
+button:hover{
+    background-color: aqua;
+    font-weight: 900;
+}
+
